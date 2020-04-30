@@ -1,11 +1,13 @@
 # EU_bank_turnover_explainability_project
 
+
 Prepared for IBM Hackaton in Explainability
 
 Prepared by Luis Antonio Coca Urdanivia
 
 May 1, 2020
 
+[Google Slides Presentation](https://docs.google.com/presentation/d/1GNjeJhyTScEyZIehNiRVWG7gV_P4p9oi4ci7kCqzD7c/edit?usp=sharing)
 ## Explainability EU Bank Turnover Dataset
 Background:
 
