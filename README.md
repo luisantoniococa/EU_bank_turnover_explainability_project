@@ -62,3 +62,7 @@ image credits: https://unsplash.com/@pampouks
 + Where will the end product live?
     + Product will live in in the transactions and marketing funnel
 
+
+![alt text][PipelineSummary]
+
+[PipelineSummary]: https://github.com/luisantoniococa/EU_bank_turnover_explainability_project/blob/master/PipelineSummary.png "Pipeline Summary"
