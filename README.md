@@ -64,5 +64,26 @@ image credits: https://unsplash.com/@pampouks
 
 
 ![alt text][PipelineSummary]
+![alt text][HyperOut]
+![alt text][PipeVizPlan]
+![alt text][PipeVizFinal]
+![alt text][ShapForce]
+![alt text][ShapWater]
+
+
+
+
+
+
+
+
+
+
+
 
 [PipelineSummary]: https://github.com/luisantoniococa/EU_bank_turnover_explainability_project/blob/master/PipelineSummary.png "Pipeline Summary"
+[HyperOut]: https://github.com/luisantoniococa/EU_bank_turnover_explainability_project/blob/master/HyperparameterTunningOutput.png "Hyperparameter Tunning Output"
+[PipeVizPlan]: https://github.com/luisantoniococa/EU_bank_turnover_explainability_project/blob/master/PipelineVizPlanned.png "Pipeline Visualization Planned"
+[PipeVizFinal]: https://github.com/luisantoniococa/EU_bank_turnover_explainability_project/blob/master/PipelineVizFinal.png "Pipeline Visualization Final or Trained"
+[ShapForce]: https://github.com/luisantoniococa/EU_bank_turnover_explainability_project/blob/master/ShapForcePlot.png "Shap Force Plot"
+[ShapWater]: https://github.com/luisantoniococa/EU_bank_turnover_explainability_project/blob/master/ShapWaterfallPlot.png "Shap Waterfall Plot"
