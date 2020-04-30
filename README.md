@@ -42,5 +42,21 @@ original dataset at: https://www.kaggle.com/barelydedicated/bank-customer-churn-
 image credits: https://unsplash.com/@pampouks
 
 
-
+### Explainability checklist
++ Who is our stakeholder?
+    + Accounts Manager
++ what are their needs(problem Identification)?
+    + identify which customers are more likely to leave in the next 6 months
++ what are the constraints/restraints of the project?
+    + GDPR/ Data privacy / data management / not enough data (by date-transaction)
++ Where will the data be obtained?
+    + Marketing sales, database
++ What impact is expected based on problem statement?
+    + Provide incentives to identified clients for being active in account and increase cash flow 
++ What KPI will be measured in the system?
+    + KPI is customer retention
++ How Will we Disseminate results?
+    + Will create a presentation showing the most important features
++ Where will the end product live?
+    + Product will live in in the transactions and marketing funnel
 
