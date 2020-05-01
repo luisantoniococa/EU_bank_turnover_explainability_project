@@ -63,6 +63,10 @@ image credits: https://unsplash.com/@pampouks
     + Product will live in in the transactions and marketing funnel
 
 
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT95y_G3QKmaJKfzIltYFLt6FiLSjgZLRNL5y0Ut2AZl-EFVp13xEh9OKEI0Ev0MG6zpZmBoKRKuIhA/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ![alt text][PipelineSummary]
 ![alt text][HyperOut]
 ![alt text][PipeVizPlan]
