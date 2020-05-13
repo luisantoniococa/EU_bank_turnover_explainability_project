@@ -42,6 +42,8 @@ To run:
 original dataset at: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 image credits: https://unsplash.com/@pampouks
 
+An IBM badge in "Explainable Data Science: How to Build & Implement Explainable Workflows" obtained for this project can be found at the link 
+https://docs.google.com/document/d/1VH-DM8bo_e2AvaoCQ0r3e3quSwZ-9NDKAAJtn1BlanU/edit?usp=sharing
 
 ### Explainability checklist
 + Who is our stakeholder?
